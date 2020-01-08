@@ -24,12 +24,9 @@ Method 2:
 
 Side note(s):
 
--It doesn't always work for some reason.
- If it doesn't work just try again.
+-It doesn't always work for some reason. If it doesn't work just try again.
+-The VBS file is just to type 'Yes' in the commandpromt window.
 
 ------------------------------------------------------------------------------------------
-
-Check my GitHub for updates:
-https://github.com/gyfen/Background-Changer
 
 -Gyfen
