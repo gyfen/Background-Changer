@@ -1,0 +1,37 @@
+INSTRUCTIES
+
+Optioneel) Doe foto's in de map genaamd 'backgrounds'.
+1) Open 'BackgroundChanger.bat' en selecteer het bestand.
+
+------------------------------------------------------------------------------------------
+
+INSTRUCTIES VOOR SCHOOL COMPUTER
+
+Methode 1:
+
+1) Log in met google drive file stream, onder in je taakbalk.
+2) Open verkenner en ga naar je drive map.
+3) Plaats deze map in je drive.
+Optioneel) Doe foto's in de map genaamd 'backgrounds'.
+4) Open 'BackgroundChanger.bat' en selecteer het bestand.
+
+
+Methode 2:
+
+1) Plaats deze map op een USB-stick.
+Optioneel) Doe foto's in de map genaamd 'backgrounds'.
+2) Open 'BackgroundChanger.bat' en selecteer het bestand.
+
+------------------------------------------------------------------------------------------
+
+Side note(s):
+
+-Het werkt voor een of andere reden niet altijd.
+ Als het niet werkt moet je gewoon opnieuw proberen.
+
+------------------------------------------------------------------------------------------
+
+Check mijn GitHub voor updates:
+https://github.com/gyfen/Background-Changer
+
+-Gyfen
