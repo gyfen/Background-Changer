@@ -17,8 +17,7 @@ Method 1:
 Method 2:
 
 1) Put this folder on an USB-stick.
-2) Put your files in the folder named 'backgrounds'.
-3) Run 'BackgroundChanger.bat' and select your file.
+2) Run 'BackgroundChanger.bat' and select your file.
 
 ------------------------------------------------------------------------------------------
 
