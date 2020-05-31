@@ -1,3 +1,7 @@
+#Backhround Changer
+
+##OUTDATED
+
 INSTRUCTIONS
 
 1) Run 'BackgroundChanger.bat' and select your file.
