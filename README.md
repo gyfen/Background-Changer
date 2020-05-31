@@ -1,6 +1,6 @@
-#Backhround Changer
+# Background Changer
 
-##OUTDATED
+## OUTDATED
 
 INSTRUCTIONS
 
